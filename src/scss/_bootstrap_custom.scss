@@ -1,0 +1,19 @@
+.option-hidden {
+	> option {
+		&:nth-child(1) {
+			display: none;
+		}
+	}
+}
+.custom-select-lg {
+	border-radius: $border-radius-lg;
+}
+.custom-control-lg {
+	.custom-control-label {
+		font-size: $font-size-lg;
+		&::after,
+		&::before {
+			top: .25rem
+		}
+	}
+}
