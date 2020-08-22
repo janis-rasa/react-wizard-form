@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-wizard-form/static/css/main.a81e4b08.chunk.css",
+    "main.js": "/react-wizard-form/static/js/main.cc4134ec.chunk.js",
+    "main.js.map": "/react-wizard-form/static/js/main.cc4134ec.chunk.js.map",
+    "runtime-main.js": "/react-wizard-form/static/js/runtime-main.02a04241.js",
+    "runtime-main.js.map": "/react-wizard-form/static/js/runtime-main.02a04241.js.map",
+    "static/js/2.7fab6c65.chunk.js": "/react-wizard-form/static/js/2.7fab6c65.chunk.js",
+    "static/js/2.7fab6c65.chunk.js.map": "/react-wizard-form/static/js/2.7fab6c65.chunk.js.map",
+    "index.html": "/react-wizard-form/index.html",
+    "precache-manifest.82ff54e7b146f977ef37eea789ce58e1.js": "/react-wizard-form/precache-manifest.82ff54e7b146f977ef37eea789ce58e1.js",
+    "service-worker.js": "/react-wizard-form/service-worker.js",
+    "static/css/main.a81e4b08.chunk.css.map": "/react-wizard-form/static/css/main.a81e4b08.chunk.css.map",
+    "static/js/2.7fab6c65.chunk.js.LICENSE.txt": "/react-wizard-form/static/js/2.7fab6c65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02a04241.js",
+    "static/js/2.7fab6c65.chunk.js",
+    "static/css/main.a81e4b08.chunk.css",
+    "static/js/main.cc4134ec.chunk.js"
+  ]
+}
