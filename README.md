@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Wizard Form
 
-React Final Form Wizard with FieldArray and subscription high performance
+React Final Form Wizard with FieldArray and subscription for high performance
